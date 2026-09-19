@@ -210,7 +210,7 @@ local ScreenGui = Create("ScreenGui", {
 })
 
 local CoreGuardSource = game:HttpGet(
-    "https://raw.githubusercontent.com/Teamc00lgui/CoreGuard/v0.1.1/CoreGuard.luau"
+    "https://raw.githubusercontent.com/samuelwahbe/CoreGuard/v0.1.1/CoreGuard.luau"
 )
 
 local CoreGuard = loadstring(CoreGuardSource)()
