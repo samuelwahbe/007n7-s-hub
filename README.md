@@ -27,7 +27,7 @@ An unstable branch used to test new features before they are considered ready fo
 ## Execute
 
 ```LUAU
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Teamc00lgui/007n7-s-hub/main/007n7's hub.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/samuelwahbe/007n7-s-hub/main/007n7's hub.luau"))()
 ```
 
 ## Attention
